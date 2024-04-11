@@ -1,0 +1,20 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+}
+
+h1.index {
+    text-align: center;
+    font-size: 50px;
+}
+
+div.list {
+    text-align: center;
+}
+
+ul.recipe-list {
+    display: inline-block;
+    text-align: left;
+    font-size: 25px;
+}
